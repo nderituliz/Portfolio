@@ -28,3 +28,10 @@ body{
         padding: 20px;
         text-align: center;
         }
+ p{
+        color: black;
+        font-size: bold;
+        text-align: left;
+        font-size: 18px
+        }
+            
