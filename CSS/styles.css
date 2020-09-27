@@ -6,8 +6,8 @@ body{
     list-style: none;
     background: black;
     text-align: center
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     } 
 .nav li {
         display: inline-block;
